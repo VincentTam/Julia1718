@@ -2,3 +2,5 @@
 !.gitignore
 *.swp
 .ipynb_checkpoints
+*.png
+*.tex
