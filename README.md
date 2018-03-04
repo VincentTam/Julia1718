@@ -14,6 +14,7 @@ Setup
 1. [gitignore generator][gitignore]
 1. [nbviewer][nbviewer]
 1. Tutorials from [Juliabox][Juliabox]
+1. *Julia for Data Science*
 
 License
 ---
@@ -25,3 +26,9 @@ License
 [gitignore]: https://www.gitignore.io/
 [nbviewer]: http://nbviewer.jupyter.org/
 [Juliabox]: https://www.juliabox.com/
+
+Data source
+---
+
+1. [OpenData Socrata](https://opendata.socrata.com)
+1. [*Road Saftety Data* from data.gov.uk](https://data.gov.uk/dataset/road-accidents-safety-data)
